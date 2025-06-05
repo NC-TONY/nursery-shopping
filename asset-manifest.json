@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nursery-shopping/static/css/main.9c3e0267.css",
-    "main.js": "/nursery-shopping/static/js/main.db16cda4.js",
+    "main.js": "/nursery-shopping/static/js/main.f55111ee.js",
     "static/js/453.81c3b423.chunk.js": "/nursery-shopping/static/js/453.81c3b423.chunk.js",
     "static/media/background.jpg": "/nursery-shopping/static/media/background.90472260b70afb18ed30.jpg",
     "static/media/pl.jpg": "/nursery-shopping/static/media/pl.5d958627e90de7965ac8.jpg",
@@ -9,11 +9,11 @@
     "static/media/md.jpeg": "/nursery-shopping/static/media/md.c9055d243800f952b51c.jpeg",
     "index.html": "/nursery-shopping/index.html",
     "main.9c3e0267.css.map": "/nursery-shopping/static/css/main.9c3e0267.css.map",
-    "main.db16cda4.js.map": "/nursery-shopping/static/js/main.db16cda4.js.map",
+    "main.f55111ee.js.map": "/nursery-shopping/static/js/main.f55111ee.js.map",
     "453.81c3b423.chunk.js.map": "/nursery-shopping/static/js/453.81c3b423.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c3e0267.css",
-    "static/js/main.db16cda4.js"
+    "static/js/main.f55111ee.js"
   ]
 }
