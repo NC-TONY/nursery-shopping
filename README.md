@@ -1,5 +1,5 @@
 # Paradise Nursery 🌿
--For my IBM full stack course final project
+-For my IBM Coursera full stack course final project
 
 A front-end shopping app for houseplants built with React. Features:
 - Landing Page with company info.
